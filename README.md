@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jaino! I am a Computer Science Student.
+- 👀 I’m interested in learning about app development and back-end.
+- 🌱 I’m currently learning about app development and Javascript.
+- 📫 You can reach me by emailing to david.jh.song@gmail.com
